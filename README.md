@@ -2,7 +2,7 @@
 
 Flutter application that fetches and displays free game giveaways from the [GamerPower API](https://www.gamerpower.com/api/giveaways).
 
-**Individual Assignment: Read API: gamerpower.com**  
+**Assignment: Read API: gamerpower.com**  
 Student: Heng Ratana
 
 ## Screenshots
